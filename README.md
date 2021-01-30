@@ -3,4 +3,4 @@
 Programming
 
 Container Technologies
-![IBM Docker Certification Image](https://github.com/dixonwhitmire/certifications/blob/master/IBMDeveloperSkillsNetwork-Docker.jpg)
+![IBM Docker Certification Image](https://github.com/dixonwhitmire/certifications/blob/main/IBMDeveloperSkillsNetwork-Docker.jpg)
